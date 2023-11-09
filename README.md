@@ -1,4 +1,3 @@
-# 8 Hours Challenge 👨‍💻👀
 ## Complete Bootstrap (v5) Full functional Responsive site 🚩
 
 *Made for GC Powerlist (Foreign based Company)*
@@ -14,10 +13,5 @@
 - Built on (latest stable) Bootstrap v5 template ✅
 - Uses Bootstrap Icons ✅
 - Gives Modern and Clean look ✅
-
-## Thanks! ✌
-Give this repo a star (yes! It helps me alot :) ). You can fork this repo (if you want) in order to gain some knowledge 📚 of using Bootstrap classes to built functional and responsive sites.
-
-Made with ❤ by  [Shehroz Ali](https://github.com/sshehrozali)
 
 
